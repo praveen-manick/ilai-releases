@@ -5,12 +5,13 @@ answer them when they ask, review what they changed and ship it.
 
 ![Agents in the sidebar, the code they change, and an agent at work](screenshots/01-agents.png)
 
-**[Download Ilai for Windows](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Setup.exe)**
-· [All releases](https://github.com/praveen-manick/ilai-releases/releases)
-· [Handbook (PDF)](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Handbook.pdf)
+| | Download | |
+|---|---|---|
+| **Windows** | **[Ilai-Setup.exe](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Setup.exe)** | Windows 10 (1809 or newer) or 11, 64-bit |
+| **Android** | **[Ilai-Android.apk](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Android.apk)** | The phone app: your agents and servers in your pocket |
+| **Handbook** | **[Ilai-Handbook.pdf](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Handbook.pdf)** | Every feature, step by step |
 
-Windows 10 (1809 or newer) or Windows 11, 64-bit. Installs for your user only, with no admin rights.
-Ilai looks for updates by itself and installs them in one click.
+Both apps look for updates by themselves and tell you when one is out. [All releases](https://github.com/praveen-manick/ilai-releases/releases)
 
 ## What it does
 
@@ -56,6 +57,13 @@ Ilai looks for updates by itself and installs them in one click.
    server. Ilai sets up what it needs there by itself.
 
 To uninstall: **Settings → Apps → Ilai → Uninstall**.
+
+### The phone app (Android)
+
+1. On the phone, open **[Ilai-Android.apk](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Android.apk)**.
+2. Allow your browser to install apps when Android asks, then tap **Install**.
+3. Add a server (host, user, and a password or key): it shows your agents, their terminals and what they changed,
+   and tells you when one needs you. A new build installs over the old one and keeps your servers.
 
 The [handbook](https://github.com/praveen-manick/ilai-releases/releases/latest/download/Ilai-Handbook.pdf) covers
 every feature step by step, with all the keyboard shortcuts.
