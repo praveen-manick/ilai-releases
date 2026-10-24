@@ -24,8 +24,8 @@ Both apps look for updates by themselves and tell you when one is out. [All rele
   how it stands, and your Jira issues. Start an agent on an issue or on failing checks in one click.
 - **A real editor and terminals.** Syntax colours, search across files, Git, a file explorer, split columns, and
   terminals with your shell. Attach images and files to an agent from your PC.
-- **A browser for agents.** A sandboxed browser on the server, shown in a tab: agents test pages with it, and hand
-  sign-ins to you.
+- **A browser for agents.** On Windows, a browser inside Ilai that agents on the server drive: they test pages
+  with it, and hand sign-ins to you.
 - **Fast.** Native and drawn on the GPU: no Electron, no webview. One small program that opens in a blink and uses no
   CPU when idle. 37 themes.
 
