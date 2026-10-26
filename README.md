@@ -15,7 +15,7 @@ Both apps look for updates by themselves and tell you when one is out. [All rele
 
 ## What it does
 
-- **Agents, all in view.** Claude Code, Codex, pi and other agents run in terminals on your server, inside
+- **Agents, all in view.** Claude Code, Codex and pi run in terminals on your server, inside
   [herdr](https://herdr.dev), so they keep working when you close the laptop or the network drops. The sidebar and
   the dashboard (`Ctrl Shift D`) show which one is working, which is done and which needs you; answer it right there.
 - **Review, then ship.** The Changes tab shows what an agent changed, file by file. Comment on a line and send the
